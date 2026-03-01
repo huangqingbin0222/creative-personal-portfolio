@@ -2,7 +2,7 @@
   "name": "creative-personal-portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://huangqingbin.top",
+
   "type": "module",
   "scripts": {
     "dev": "vite",
